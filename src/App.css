@@ -40,7 +40,7 @@
 }
 .top-site {
   border-radius: 20px;
-  position: relative;
+  position: fixed;
 } 
 
 .background-img {
