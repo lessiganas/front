@@ -19,7 +19,7 @@ const product1 = [
   { id: 8, name: 'Product 3', price: 99.99, image: jdidi3 },
   // Add more products as needed
 ];
-const Cargo = () => {
+const TrackPants = () => {
   const dispatch=useDispatch()
   return (
     <div className='apps' >
@@ -41,4 +41,4 @@ const Cargo = () => {
   )
 }
 
-export default Cargo
+export default TrackPants
