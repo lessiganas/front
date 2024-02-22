@@ -41,7 +41,7 @@
 .top-site {
   border-radius: 20px;
   position: relative;
-} */
+} 
 
 .background-img {
   position: fixed;
@@ -61,7 +61,7 @@
   
 }
 
-  /* /* object-fit: cover;  */
+
 
 
 
@@ -92,7 +92,7 @@ margin-top: 30px;
 
 div.gallery {
   margin: 20px;
-  padding: 10px; /* Add padding here */
+  padding: 10px; 
   border: 1px solid #ccc;
   float: left;
   width: 300px;
